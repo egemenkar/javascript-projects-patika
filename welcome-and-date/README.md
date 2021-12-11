@@ -1,4 +1,4 @@
-# To Do App
+# Welcome and Date App
 
 #### By Egemen Kar
 
